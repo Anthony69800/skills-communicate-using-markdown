@@ -11,3 +11,5 @@ démontrer l'utilisation de Markdown dans GitHub.
 
 ## Auteur
 Ce projet a été réalisé par Anthony
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
